@@ -1,0 +1,19 @@
+user-component{
+    .user-avatar{
+        width:138px;
+        height:138px;
+        border-radius: 50%;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .modal-container{
+        position: fixed;
+        background-color: black;
+
+        .modal{
+            display: block;
+        }
+    }
+}

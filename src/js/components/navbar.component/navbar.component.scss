@@ -1,0 +1,10 @@
+app-header{
+    .navbar{
+        display:flex;
+        justify-content: space-between;
+        .navbar-nav{
+            width:100%;
+            justify-content: space-evenly;
+        }
+    }
+}
